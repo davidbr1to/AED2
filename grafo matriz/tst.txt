@@ -1,0 +1,13 @@
+8 5
+A
+B
+C
+D
+E
+F
+G
+H
+AB
+CB
+AC
+DB
